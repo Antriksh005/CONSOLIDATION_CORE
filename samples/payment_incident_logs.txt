@@ -1,0 +1,550 @@
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0000 latency_ms=900 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0001 latency_ms=901 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0002 latency_ms=902 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0003 latency_ms=903 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0004 latency_ms=904 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0005 latency_ms=905 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0006 latency_ms=906 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0007 latency_ms=907 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0008 latency_ms=908 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0009 latency_ms=909 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0010 latency_ms=910 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0011 latency_ms=911 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0012 latency_ms=912 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0013 latency_ms=913 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0014 latency_ms=914 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0015 latency_ms=915 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0016 latency_ms=916 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0017 latency_ms=917 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0018 latency_ms=918 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0019 latency_ms=919 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0020 latency_ms=920 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0021 latency_ms=921 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0022 latency_ms=922 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0023 latency_ms=923 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0024 latency_ms=924 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0025 latency_ms=925 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0026 latency_ms=926 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0027 latency_ms=927 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0028 latency_ms=928 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0029 latency_ms=929 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0030 latency_ms=930 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0031 latency_ms=931 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0032 latency_ms=932 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0033 latency_ms=933 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0034 latency_ms=934 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0035 latency_ms=935 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0036 latency_ms=936 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0037 latency_ms=937 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0038 latency_ms=938 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0039 latency_ms=939 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0040 latency_ms=940 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0041 latency_ms=941 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0042 latency_ms=942 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0043 latency_ms=943 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0044 latency_ms=944 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0045 latency_ms=945 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0046 latency_ms=946 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0047 latency_ms=947 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0048 latency_ms=948 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0049 latency_ms=949 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0050 latency_ms=950 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0051 latency_ms=951 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0052 latency_ms=952 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0053 latency_ms=953 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0054 latency_ms=954 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0055 latency_ms=955 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0056 latency_ms=956 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0057 latency_ms=957 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0058 latency_ms=958 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0059 latency_ms=959 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0060 latency_ms=960 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0061 latency_ms=961 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0062 latency_ms=962 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0063 latency_ms=963 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0064 latency_ms=964 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0065 latency_ms=965 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0066 latency_ms=966 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0067 latency_ms=967 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0068 latency_ms=968 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0069 latency_ms=969 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0070 latency_ms=970 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0071 latency_ms=971 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0072 latency_ms=972 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0073 latency_ms=973 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0074 latency_ms=974 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0075 latency_ms=975 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0076 latency_ms=976 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0077 latency_ms=977 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0078 latency_ms=978 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0079 latency_ms=979 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0080 latency_ms=980 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0081 latency_ms=981 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0082 latency_ms=982 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0083 latency_ms=983 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0084 latency_ms=984 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0085 latency_ms=985 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0086 latency_ms=986 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0087 latency_ms=987 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0088 latency_ms=988 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0089 latency_ms=989 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0090 latency_ms=990 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0091 latency_ms=991 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0092 latency_ms=992 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0093 latency_ms=993 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0094 latency_ms=994 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0095 latency_ms=995 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0096 latency_ms=996 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0097 latency_ms=997 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0098 latency_ms=998 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0099 latency_ms=999 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0100 latency_ms=1000 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0101 latency_ms=1001 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0102 latency_ms=1002 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0103 latency_ms=1003 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0104 latency_ms=1004 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0105 latency_ms=1005 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0106 latency_ms=1006 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0107 latency_ms=1007 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0108 latency_ms=1008 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0109 latency_ms=1009 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0110 latency_ms=1010 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0111 latency_ms=1011 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0112 latency_ms=1012 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0113 latency_ms=1013 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0114 latency_ms=1014 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0115 latency_ms=1015 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0116 latency_ms=1016 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0117 latency_ms=1017 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0118 latency_ms=1018 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0119 latency_ms=1019 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0120 latency_ms=1020 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0121 latency_ms=1021 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0122 latency_ms=1022 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0123 latency_ms=1023 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0124 latency_ms=1024 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0125 latency_ms=1025 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0126 latency_ms=1026 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0127 latency_ms=1027 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0128 latency_ms=1028 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0129 latency_ms=1029 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0130 latency_ms=1030 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0131 latency_ms=1031 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0132 latency_ms=1032 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0133 latency_ms=1033 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0134 latency_ms=1034 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0135 latency_ms=1035 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0136 latency_ms=1036 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0137 latency_ms=1037 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0138 latency_ms=1038 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0139 latency_ms=1039 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0140 latency_ms=1040 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0141 latency_ms=1041 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0142 latency_ms=1042 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0143 latency_ms=1043 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0144 latency_ms=1044 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0145 latency_ms=1045 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0146 latency_ms=1046 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0147 latency_ms=1047 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0148 latency_ms=1048 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0149 latency_ms=1049 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0150 latency_ms=1050 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0151 latency_ms=1051 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0152 latency_ms=1052 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0153 latency_ms=1053 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0154 latency_ms=1054 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0155 latency_ms=1055 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0156 latency_ms=1056 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0157 latency_ms=1057 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0158 latency_ms=1058 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0159 latency_ms=1059 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0160 latency_ms=1060 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0161 latency_ms=1061 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0162 latency_ms=1062 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0163 latency_ms=1063 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0164 latency_ms=1064 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0165 latency_ms=1065 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0166 latency_ms=1066 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0167 latency_ms=1067 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0168 latency_ms=1068 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0169 latency_ms=1069 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0170 latency_ms=1070 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0171 latency_ms=1071 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0172 latency_ms=1072 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0173 latency_ms=1073 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0174 latency_ms=1074 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0175 latency_ms=1075 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0176 latency_ms=1076 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0177 latency_ms=1077 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0178 latency_ms=1078 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0179 latency_ms=1079 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0180 latency_ms=900 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0181 latency_ms=901 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0182 latency_ms=902 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0183 latency_ms=903 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0184 latency_ms=904 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0185 latency_ms=905 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0186 latency_ms=906 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0187 latency_ms=907 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0188 latency_ms=908 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0189 latency_ms=909 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0190 latency_ms=910 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0191 latency_ms=911 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0192 latency_ms=912 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0193 latency_ms=913 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0194 latency_ms=914 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0195 latency_ms=915 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0196 latency_ms=916 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0197 latency_ms=917 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0198 latency_ms=918 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0199 latency_ms=919 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0200 latency_ms=920 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0201 latency_ms=921 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0202 latency_ms=922 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0203 latency_ms=923 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0204 latency_ms=924 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0205 latency_ms=925 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0206 latency_ms=926 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0207 latency_ms=927 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0208 latency_ms=928 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0209 latency_ms=929 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0210 latency_ms=930 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0211 latency_ms=931 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0212 latency_ms=932 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0213 latency_ms=933 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0214 latency_ms=934 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0215 latency_ms=935 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0216 latency_ms=936 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0217 latency_ms=937 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0218 latency_ms=938 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0219 latency_ms=939 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0220 latency_ms=940 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0221 latency_ms=941 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0222 latency_ms=942 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0223 latency_ms=943 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0224 latency_ms=944 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0225 latency_ms=945 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0226 latency_ms=946 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0227 latency_ms=947 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0228 latency_ms=948 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0229 latency_ms=949 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0230 latency_ms=950 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0231 latency_ms=951 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0232 latency_ms=952 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0233 latency_ms=953 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0234 latency_ms=954 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0235 latency_ms=955 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0236 latency_ms=956 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0237 latency_ms=957 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0238 latency_ms=958 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0239 latency_ms=959 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0240 latency_ms=960 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0241 latency_ms=961 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0242 latency_ms=962 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0243 latency_ms=963 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0244 latency_ms=964 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0245 latency_ms=965 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0246 latency_ms=966 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0247 latency_ms=967 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0248 latency_ms=968 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0249 latency_ms=969 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0250 latency_ms=970 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0251 latency_ms=971 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0252 latency_ms=972 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0253 latency_ms=973 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0254 latency_ms=974 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0255 latency_ms=975 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0256 latency_ms=976 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0257 latency_ms=977 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0258 latency_ms=978 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0259 latency_ms=979 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0260 latency_ms=980 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0261 latency_ms=981 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0262 latency_ms=982 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0263 latency_ms=983 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0264 latency_ms=984 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0265 latency_ms=985 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0266 latency_ms=986 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0267 latency_ms=987 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0268 latency_ms=988 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0269 latency_ms=989 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0270 latency_ms=990 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0271 latency_ms=991 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0272 latency_ms=992 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0273 latency_ms=993 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0274 latency_ms=994 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0275 latency_ms=995 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0276 latency_ms=996 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0277 latency_ms=997 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0278 latency_ms=998 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0279 latency_ms=999 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0280 latency_ms=1000 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0281 latency_ms=1001 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0282 latency_ms=1002 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0283 latency_ms=1003 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0284 latency_ms=1004 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0285 latency_ms=1005 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0286 latency_ms=1006 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0287 latency_ms=1007 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0288 latency_ms=1008 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0289 latency_ms=1009 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0290 latency_ms=1010 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0291 latency_ms=1011 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0292 latency_ms=1012 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0293 latency_ms=1013 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0294 latency_ms=1014 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0295 latency_ms=1015 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0296 latency_ms=1016 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0297 latency_ms=1017 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0298 latency_ms=1018 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0299 latency_ms=1019 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0300 latency_ms=1020 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0301 latency_ms=1021 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0302 latency_ms=1022 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0303 latency_ms=1023 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0304 latency_ms=1024 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0305 latency_ms=1025 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0306 latency_ms=1026 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0307 latency_ms=1027 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0308 latency_ms=1028 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0309 latency_ms=1029 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0310 latency_ms=1030 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0311 latency_ms=1031 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0312 latency_ms=1032 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0313 latency_ms=1033 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0314 latency_ms=1034 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0315 latency_ms=1035 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0316 latency_ms=1036 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0317 latency_ms=1037 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0318 latency_ms=1038 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0319 latency_ms=1039 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0320 latency_ms=1040 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0321 latency_ms=1041 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0322 latency_ms=1042 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0323 latency_ms=1043 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0324 latency_ms=1044 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0325 latency_ms=1045 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0326 latency_ms=1046 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0327 latency_ms=1047 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0328 latency_ms=1048 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0329 latency_ms=1049 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0330 latency_ms=1050 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0331 latency_ms=1051 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0332 latency_ms=1052 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0333 latency_ms=1053 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0334 latency_ms=1054 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0335 latency_ms=1055 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0336 latency_ms=1056 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0337 latency_ms=1057 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0338 latency_ms=1058 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0339 latency_ms=1059 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0340 latency_ms=1060 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0341 latency_ms=1061 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0342 latency_ms=1062 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0343 latency_ms=1063 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0344 latency_ms=1064 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0345 latency_ms=1065 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0346 latency_ms=1066 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0347 latency_ms=1067 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0348 latency_ms=1068 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0349 latency_ms=1069 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0350 latency_ms=1070 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0351 latency_ms=1071 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0352 latency_ms=1072 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0353 latency_ms=1073 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0354 latency_ms=1074 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0355 latency_ms=1075 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0356 latency_ms=1076 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0357 latency_ms=1077 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0358 latency_ms=1078 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0359 latency_ms=1079 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0360 latency_ms=900 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0361 latency_ms=901 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0362 latency_ms=902 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0363 latency_ms=903 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0364 latency_ms=904 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0365 latency_ms=905 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0366 latency_ms=906 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0367 latency_ms=907 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0368 latency_ms=908 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0369 latency_ms=909 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0370 latency_ms=910 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0371 latency_ms=911 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0372 latency_ms=912 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0373 latency_ms=913 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0374 latency_ms=914 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0375 latency_ms=915 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0376 latency_ms=916 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0377 latency_ms=917 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0378 latency_ms=918 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0379 latency_ms=919 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0380 latency_ms=920 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0381 latency_ms=921 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0382 latency_ms=922 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0383 latency_ms=923 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0384 latency_ms=924 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0385 latency_ms=925 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0386 latency_ms=926 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0387 latency_ms=927 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0388 latency_ms=928 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0389 latency_ms=929 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0390 latency_ms=930 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0391 latency_ms=931 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0392 latency_ms=932 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0393 latency_ms=933 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0394 latency_ms=934 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0395 latency_ms=935 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0396 latency_ms=936 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0397 latency_ms=937 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0398 latency_ms=938 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0399 latency_ms=939 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0400 latency_ms=940 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0401 latency_ms=941 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0402 latency_ms=942 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0403 latency_ms=943 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0404 latency_ms=944 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0405 latency_ms=945 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0406 latency_ms=946 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0407 latency_ms=947 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0408 latency_ms=948 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0409 latency_ms=949 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0410 latency_ms=950 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0411 latency_ms=951 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0412 latency_ms=952 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0413 latency_ms=953 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0414 latency_ms=954 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0415 latency_ms=955 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0416 latency_ms=956 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0417 latency_ms=957 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0418 latency_ms=958 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0419 latency_ms=959 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0420 latency_ms=960 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0421 latency_ms=961 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0422 latency_ms=962 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0423 latency_ms=963 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0424 latency_ms=964 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0425 latency_ms=965 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0426 latency_ms=966 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0427 latency_ms=967 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0428 latency_ms=968 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0429 latency_ms=969 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0430 latency_ms=970 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0431 latency_ms=971 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0432 latency_ms=972 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0433 latency_ms=973 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0434 latency_ms=974 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0435 latency_ms=975 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0436 latency_ms=976 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0437 latency_ms=977 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0438 latency_ms=978 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0439 latency_ms=979 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0440 latency_ms=980 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0441 latency_ms=981 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0442 latency_ms=982 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0443 latency_ms=983 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0444 latency_ms=984 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0445 latency_ms=985 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0446 latency_ms=986 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0447 latency_ms=987 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0448 latency_ms=988 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0449 latency_ms=989 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0450 latency_ms=990 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0451 latency_ms=991 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0452 latency_ms=992 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0453 latency_ms=993 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0454 latency_ms=994 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0455 latency_ms=995 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0456 latency_ms=996 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0457 latency_ms=997 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0458 latency_ms=998 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0459 latency_ms=999 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0460 latency_ms=1000 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0461 latency_ms=1001 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0462 latency_ms=1002 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0463 latency_ms=1003 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0464 latency_ms=1004 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0465 latency_ms=1005 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0466 latency_ms=1006 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0467 latency_ms=1007 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0468 latency_ms=1008 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0469 latency_ms=1009 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0470 latency_ms=1010 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0471 latency_ms=1011 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0472 latency_ms=1012 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0473 latency_ms=1013 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0474 latency_ms=1014 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0475 latency_ms=1015 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0476 latency_ms=1016 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0477 latency_ms=1017 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0478 latency_ms=1018 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0479 latency_ms=1019 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0480 latency_ms=1020 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0481 latency_ms=1021 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0482 latency_ms=1022 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0483 latency_ms=1023 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0484 latency_ms=1024 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0485 latency_ms=1025 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0486 latency_ms=1026 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0487 latency_ms=1027 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0488 latency_ms=1028 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0489 latency_ms=1029 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0490 latency_ms=1030 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0491 latency_ms=1031 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0492 latency_ms=1032 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0493 latency_ms=1033 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0494 latency_ms=1034 message=retry issued after gateway timeout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0495 latency_ms=1035 message=timeout while charging card
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0496 latency_ms=1036 message=gateway slow during checkout
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0497 latency_ms=1037 message=checkout failed after payment wait
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0498 latency_ms=1038 message=payment request exceeded latency budget
+category=incident service=checkout root=payment_gateway_timeout event_id=pay_0499 latency_ms=1039 message=retry issued after gateway timeout
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0000 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0001 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0002 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0003 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0004 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0005 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0006 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0007 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0008 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0009 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0010 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0011 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0012 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0013 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0014 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0015 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0016 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0017 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0018 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0019 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0020 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0021 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0022 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0023 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0024 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0025 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0026 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0027 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0028 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0029 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0030 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0031 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0032 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0033 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0034 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0035 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0036 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0037 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0038 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0039 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0040 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0041 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0042 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0043 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0044 message=search index refresh delayed
+category=decoy service=frontend root=css_asset_missing event_id=decoy_0045 message=stylesheet returned 404
+category=decoy service=email root=email_bounce event_id=decoy_0046 message=user inbox rejected message
+category=decoy service=profile root=avatar_cache_miss event_id=decoy_0047 message=avatar image not in cache
+category=decoy service=marketing root=pixel_timeout event_id=decoy_0048 message=analytics pixel delayed
+category=decoy service=search root=index_lag event_id=decoy_0049 message=search index refresh delayed
