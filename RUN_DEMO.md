@@ -9,10 +9,7 @@ python tools\run_demo.py
 Expected result:
 
 ```text
-raw_events: 550
-groups: around 6-10
-top_group_support: 500
-decoy_mixed_into_payment: 0
+ok=true raw_events=550 groups=6 payment_support=500 decoy_mixed=0
 ```
 
 Meaning:
@@ -22,3 +19,18 @@ Meaning:
 - `top_group_support` shows repeated payment incident events merged together.
 - `decoy_mixed_into_payment = 0` means unrelated noise was kept separate.
 
+Generated files:
+
+```text
+reports/payment_incident_report.md
+reports/runtime_metrics.md
+```
+
+To create your own experiment, edit:
+
+```text
+tools/generate_payment_incident_dataset.py
+src/consolidation_core.cpp
+```
+
+See [CONFIGURATION.md](CONFIGURATION.md) for the exact knobs.

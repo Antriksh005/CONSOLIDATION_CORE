@@ -1,0 +1,54 @@
+Crystal Consolidation Core Evaluation License
+Version 1.0
+
+Copyright (c) 2026 Antriksh
+
+This repository is provided as a public evaluation and research demo.
+
+1. Permitted Uses
+
+You may:
+
+- view and study the source code;
+- clone the repository;
+- run the demo locally;
+- modify the code for personal experiments;
+- use the code for non-commercial academic or research evaluation;
+- publish commentary, screenshots, benchmark observations, or issue reports with attribution.
+
+2. Restricted Uses
+
+You may not, without prior written permission from the copyright holder:
+
+- use this software for commercial purposes;
+- sell, sublicense, rent, or offer this software as a product or service;
+- embed this software, modified or unmodified, in a commercial product;
+- use this software inside a production company workflow;
+- offer this software as a hosted or managed service;
+- remove attribution or represent the work as your own;
+- use the Crystal name, project identity, or related branding to imply endorsement.
+
+3. Commercial Licensing
+
+Commercial use requires a separate written license agreement.
+
+If you want to use this software in a company, product, paid service,
+commercial research workflow, or production environment, contact the author
+for licensing terms.
+
+4. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, SECURITY, NON-INFRINGEMENT, OR PRODUCTION
+FITNESS.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, DATA LOSS,
+BUSINESS INTERRUPTION, OR OTHER LIABILITY ARISING FROM OR RELATED TO THIS
+SOFTWARE OR ITS USE.
+
+5. Reservation of Rights
+
+All rights not expressly granted in this license are reserved by the copyright
+holder.
+

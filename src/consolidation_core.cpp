@@ -10,6 +10,11 @@
 #include <string>
 #include <vector>
 
+#ifdef _WIN32
+#include <windows.h>
+#include <psapi.h>
+#endif
+
 struct Event {
     std::string raw;
     std::map<std::string, std::string> fields;
@@ -110,6 +115,16 @@ static MemoryGroup make_group(const Event& e) {
     return g;
 }
 
+static long long peak_memory_kb() {
+#ifdef _WIN32
+    PROCESS_MEMORY_COUNTERS info;
+    if (GetProcessMemoryInfo(GetCurrentProcess(), &info, sizeof(info))) {
+        return static_cast<long long>(info.PeakWorkingSetSize / 1024);
+    }
+#endif
+    return -1;
+}
+
 int main(int argc, char** argv) {
     if (argc < 3) {
         std::cerr << "usage: consolidation_core <input.txt> <report.md>\n";
@@ -167,6 +182,7 @@ int main(int argc, char** argv) {
 
     auto end = std::chrono::steady_clock::now();
     double elapsed_ms = std::chrono::duration<double, std::milli>(end - start).count();
+    long long peak_kb = peak_memory_kb();
 
     std::ofstream report(argv[2]);
     report << "# Crystal Consolidation Core Report\n\n";
@@ -177,7 +193,9 @@ int main(int argc, char** argv) {
            << (groups.empty() ? 0.0 : static_cast<double>(raw_events) / groups.size()) << "x |\n";
     report << "| Payment group support | " << payment_support << " |\n";
     report << "| Decoys mixed into payment evidence | " << decoy_mixed << " |\n";
-    report << "| Runtime | " << std::fixed << std::setprecision(3) << elapsed_ms << " ms |\n\n";
+    report << "| Runtime | " << std::fixed << std::setprecision(3) << elapsed_ms << " ms |\n";
+    if (peak_kb >= 0) report << "| Peak working set | " << peak_kb << " KB |\n";
+    report << "\n";
 
     report << "## Groups\n\n";
     for (const auto& g : groups) {
@@ -193,7 +211,7 @@ int main(int argc, char** argv) {
               << " groups=" << groups.size()
               << " payment_support=" << payment_support
               << " decoy_mixed=" << decoy_mixed
-              << " runtime_ms=" << std::fixed << std::setprecision(3) << elapsed_ms << "\n";
+              << " runtime_ms=" << std::fixed << std::setprecision(3) << elapsed_ms
+              << " peak_working_set_kb=" << peak_kb << "\n";
     return decoy_mixed == 0 && payment_support >= 500 ? 0 : 1;
 }
-

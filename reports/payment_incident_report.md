@@ -7,7 +7,8 @@
 | Compression ratio | 91.67x |
 | Payment group support | 500 |
 | Decoys mixed into payment evidence | 0 |
-| Runtime | 31.200 ms |
+| Runtime | 33.928 ms |
+| Peak working set | 5708 KB |
 
 ## Groups
 
